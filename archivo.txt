@@ -1,0 +1,10 @@
+Nombre: jp
+Apellido: gonzalez
+Edad: 15
+Grado: 3
+
+Nombre: juan
+Apellido: gonzalez
+Edad: 14
+Grado: 2
+
